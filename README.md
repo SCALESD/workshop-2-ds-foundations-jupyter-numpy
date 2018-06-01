@@ -1,6 +1,8 @@
 # Workshop 2: Data Science Foundations with Jupyter, NumPy, and Pandas
 This repository contains example code for working with parking meter and transaction data from City of San Diego.
 
+Video recording can be found on YouTube: [https://www.youtube.com/watch?v=GzkuvGbwgU8]
+
 ## Setup
 
 ### NumPy and Pandas
